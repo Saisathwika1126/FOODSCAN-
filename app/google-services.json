@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853895322658",
+    "project_id": "foodscan-plus",
+    "storage_bucket": "foodscan-plus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853895322658:android:0c865c096dfb6d4f25fe7b",
+        "android_client_info": {
+          "package_name": "com.example.foodscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzhXKtSYfIbobkldBBzyDy9UPGoBZu5bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
